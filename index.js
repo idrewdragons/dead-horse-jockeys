@@ -1,1 +1,5 @@
-console.log("some movies are suck")
+console.log('Point Break is a great movie');
+
+function add(a, b) {
+  return a + b;
+}
